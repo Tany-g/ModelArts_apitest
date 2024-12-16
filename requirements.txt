@@ -1,23 +1,28 @@
 --extra-index-url https://download.pytorch.org/whl/cpu
-annotated-types==0.7.0
+
+annotated-types<=0.7.0
 anyio<=4.7.0
-certifi==2024.8.30
-charset-normalizer==3.4.0
-click==8.1.7
-exceptiongroup==1.2.2
-fastapi==0.115.6
-h11==0.14.0
-idna==3.10
+certifi<=2024.8.30
+charset-normalizer<=3.4.0
+click<=8.1.7
+exceptiongroup<=1.2.2
+fastapi<=0.115.6
+h11<=0.14.0
+idna<=3.10
 numpy<=1.26.0
 pillow<=11.0.0
-pydantic==2.10.3
-pydantic_core==2.27.1
-python-multipart==0.0.19
-requests==2.32.3
-sniffio==1.3.1
-starlette==0.41.3
+pydantic<=2.10.3
+pydantic_core<=2.27.1
+python-multipart<=0.0.19
+requests<=2.32.3
+sniffio<=1.3.1
+starlette<=0.41.3
+# aarch64 架构下不需要指定+cpu
+# torch==1.11.0
+# torchvision==0.12.0
+
 torch==1.11.0+cpu 
-torchaudio==0.11.0+cpu 
+#torchaudio<=0.11.0+cpu 
 torchvision==0.12.0+cpu 
 typing_extensions<=4.12.2 
 urllib3<=2.2.3

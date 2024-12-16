@@ -1,1000 +1,1000 @@
-tench | Tinca tinca
-goldfish | Carassius auratus
-great white shark | white shark | man-eater | man-eating shark | Carcharodon carcharias
-tiger shark | Galeocerdo cuvieri
-hammerhead | hammerhead shark
-electric ray | crampfish | numbfish | torpedo
-stingray
-cock
-hen
-ostrich | Struthio camelus
-brambling | Fringilla montifringilla
-goldfinch | Carduelis carduelis
-house finch | linnet | Carpodacus mexicanus
-junco | snowbird
-indigo bunting | indigo finch | indigo bird | Passerina cyanea
-robin | American robin | Turdus migratorius
-bulbul
-jay
-magpie
-chickadee
-water ouzel | dipper
-kite
-bald eagle | American eagle | Haliaeetus leucocephalus
-vulture
-great grey owl | great gray owl | Strix nebulosa
-European fire salamander | Salamandra salamandra
-common newt | Triturus vulgaris
-eft
-spotted salamander | Ambystoma maculatum
-axolotl | mud puppy | Ambystoma mexicanum
-bullfrog | Rana catesbeiana
-tree frog | tree-frog
-tailed frog | bell toad | ribbed toad | tailed toad | Ascaphus trui
-loggerhead | loggerhead turtle | Caretta caretta
-leatherback turtle | leatherback | leathery turtle | Dermochelys coriacea
-mud turtle
-terrapin
-box turtle | box tortoise
-banded gecko
-common iguana | iguana | Iguana iguana
-American chameleon | anole | Anolis carolinensis
-whiptail | whiptail lizard
-agama
-frilled lizard | Chlamydosaurus kingi
-alligator lizard
-Gila monster | Heloderma suspectum
-green lizard | Lacerta viridis
-African chameleon | Chamaeleo chamaeleon
-Komodo dragon | Komodo lizard | dragon lizard | giant lizard | Varanus komodoensis
-African crocodile | Nile crocodile | Crocodylus niloticus
-American alligator | Alligator mississipiensis
-triceratops
-thunder snake | worm snake | Carphophis amoenus
-ringneck snake | ring-necked snake | ring snake
-hognose snake | puff adder | sand viper
-green snake | grass snake
-king snake | kingsnake
-garter snake | grass snake
-water snake
-vine snake
-night snake | Hypsiglena torquata
-boa constrictor | Constrictor constrictor
-rock python | rock snake | Python sebae
-Indian cobra | Naja naja
-green mamba
-sea snake
-horned viper | cerastes | sand viper | horned asp | Cerastes cornutus
-diamondback | diamondback rattlesnake | Crotalus adamanteus
-sidewinder | horned rattlesnake | Crotalus cerastes
-trilobite
-harvestman | daddy longlegs | Phalangium opilio
-scorpion
-black and gold garden spider | Argiope aurantia
-barn spider | Araneus cavaticus
-garden spider | Aranea diademata
-black widow | Latrodectus mactans
-tarantula
-wolf spider | hunting spider
-tick
-centipede
-black grouse
-ptarmigan
-ruffed grouse | partridge | Bonasa umbellus
-prairie chicken | prairie grouse | prairie fowl
-peacock
-quail
-partridge
-African grey | African gray | Psittacus erithacus
-macaw
-sulphur-crested cockatoo | Kakatoe galerita | Cacatua galerita
-lorikeet
-coucal
-bee eater
-hornbill
-hummingbird
-jacamar
-toucan
-drake
-red-breasted merganser | Mergus serrator
-goose
-black swan | Cygnus atratus
-tusker
-echidna | spiny anteater | anteater
-platypus | duckbill | duckbilled platypus | duck-billed platypus | Ornithorhynchus anatinus
-wallaby | brush kangaroo
-koala | koala bear | kangaroo bear | native bear | Phascolarctos cinereus
-wombat
-jellyfish
-sea anemone | anemone
-brain coral
-flatworm | platyhelminth
-nematode | nematode worm | roundworm
-conch
-snail
-slug
-sea slug | nudibranch
-chiton | coat-of-mail shell | sea cradle | polyplacophore
-chambered nautilus | pearly nautilus | nautilus
-Dungeness crab | Cancer magister
-rock crab | Cancer irroratus
-fiddler crab
-king crab | Alaska crab | Alaskan king crab | Alaska king crab | Paralithodes camtschatica
-American lobster | Northern lobster | Maine lobster | Homarus americanus
-spiny lobster | langouste | rock lobster | crawfish | crayfish | sea crawfish
-crayfish | crawfish | crawdad | crawdaddy
-hermit crab
-isopod
-white stork | Ciconia ciconia
-black stork | Ciconia nigra
-spoonbill
-flamingo
-little blue heron | Egretta caerulea
-American egret | great white heron | Egretta albus
-bittern
-crane
-limpkin | Aramus pictus
-European gallinule | Porphyrio porphyrio
-American coot | marsh hen | mud hen | water hen | Fulica americana
-bustard
-ruddy turnstone | Arenaria interpres
-red-backed sandpiper | dunlin | Erolia alpina
-redshank | Tringa totanus
-dowitcher
-oystercatcher | oyster catcher
-pelican
-king penguin | Aptenodytes patagonica
-albatross | mollymawk
-grey whale | gray whale | devilfish | Eschrichtius gibbosus | Eschrichtius robustus
-killer whale | killer | orca | grampus | sea wolf | Orcinus orca
-dugong | Dugong dugon
-sea lion
-Chihuahua
-Japanese spaniel
-Maltese dog | Maltese terrier | Maltese
-Pekinese | Pekingese | Peke
-Shih-Tzu
-Blenheim spaniel
-papillon
-toy terrier
-Rhodesian ridgeback
-Afghan hound | Afghan
-basset | basset hound
-beagle
-bloodhound | sleuthhound
-bluetick
-black-and-tan coonhound
-Walker hound | Walker foxhound
-English foxhound
-redbone
-borzoi | Russian wolfhound
-Irish wolfhound
-Italian greyhound
-whippet
-Ibizan hound | Ibizan Podenco
-Norwegian elkhound | elkhound
-otterhound | otter hound
-Saluki | gazelle hound
-Scottish deerhound | deerhound
-Weimaraner
-Staffordshire bullterrier | Staffordshire bull terrier
-American Staffordshire terrier | Staffordshire terrier | American pit bull terrier | pit bull terrier
-Bedlington terrier
-Border terrier
-Kerry blue terrier
-Irish terrier
-Norfolk terrier
-Norwich terrier
-Yorkshire terrier
-wire-haired fox terrier
-Lakeland terrier
-Sealyham terrier | Sealyham
-Airedale | Airedale terrier
-cairn | cairn terrier
-Australian terrier
-Dandie Dinmont | Dandie Dinmont terrier
-Boston bull | Boston terrier
-miniature schnauzer
-giant schnauzer
-standard schnauzer
-Scotch terrier | Scottish terrier | Scottie
-Tibetan terrier | chrysanthemum dog
-silky terrier | Sydney silky
-soft-coated wheaten terrier
-West Highland white terrier
-Lhasa | Lhasa apso
-flat-coated retriever
-curly-coated retriever
-golden retriever
-Labrador retriever
-Chesapeake Bay retriever
-German short-haired pointer
-vizsla | Hungarian pointer
-English setter
-Irish setter | red setter
-Gordon setter
-Brittany spaniel
-clumber | clumber spaniel
-English springer | English springer spaniel
-Welsh springer spaniel
-cocker spaniel | English cocker spaniel | cocker
-Sussex spaniel
-Irish water spaniel
-kuvasz
-schipperke
-groenendael
-malinois
-briard
-kelpie
-komondor
-Old English sheepdog | bobtail
-Shetland sheepdog | Shetland sheep dog | Shetland
-collie
-Border collie
-Bouvier des Flandres | Bouviers des Flandres
-Rottweiler
-German shepherd | German shepherd dog | German police dog | alsatian
-Doberman | Doberman pinscher
-miniature pinscher
-Greater Swiss Mountain dog
-Bernese mountain dog
-Appenzeller
-EntleBucher
-boxer
-bull mastiff
-Tibetan mastiff
-French bulldog
-Great Dane
-Saint Bernard | St Bernard
-Eskimo dog | husky
-malamute | malemute | Alaskan malamute
-Siberian husky
-dalmatian | coach dog | carriage dog
-affenpinscher | monkey pinscher | monkey dog
-basenji
-pug | pug-dog
-Leonberg
-Newfoundland | Newfoundland dog
-Great Pyrenees
-Samoyed | Samoyede
-Pomeranian
-chow | chow chow
-keeshond
-Brabancon griffon
-Pembroke | Pembroke Welsh corgi
-Cardigan | Cardigan Welsh corgi
-toy poodle
-miniature poodle
-standard poodle
-Mexican hairless
-timber wolf | grey wolf | gray wolf | Canis lupus
-white wolf | Arctic wolf | Canis lupus tundrarum
-red wolf | maned wolf | Canis rufus | Canis niger
-coyote | prairie wolf | brush wolf | Canis latrans
-dingo | warrigal | warragal | Canis dingo
-dhole | Cuon alpinus
-African hunting dog | hyena dog | Cape hunting dog | Lycaon pictus
-hyena | hyaena
-red fox | Vulpes vulpes
-kit fox | Vulpes macrotis
-Arctic fox | white fox | Alopex lagopus
-grey fox | gray fox | Urocyon cinereoargenteus
-tabby | tabby cat
-tiger cat
-Persian cat
-Siamese cat | Siamese
-Egyptian cat
-cougar | puma | catamount | mountain lion | painter | panther | Felis concolor
-lynx | catamount
-leopard | Panthera pardus
-snow leopard | ounce | Panthera uncia
-jaguar | panther | Panthera onca | Felis onca
-lion | king of beasts | Panthera leo
-tiger | Panthera tigris
-cheetah | chetah | Acinonyx jubatus
-brown bear | bruin | Ursus arctos
-American black bear | black bear | Ursus americanus | Euarctos americanus
-ice bear | polar bear | Ursus Maritimus | Thalarctos maritimus
-sloth bear | Melursus ursinus | Ursus ursinus
-mongoose
-meerkat | mierkat
-tiger beetle
-ladybug | ladybeetle | lady beetle | ladybird | ladybird beetle
-ground beetle | carabid beetle
-long-horned beetle | longicorn | longicorn beetle
-leaf beetle | chrysomelid
-dung beetle
-rhinoceros beetle
-weevil
-fly
-bee
-ant | emmet | pismire
-grasshopper | hopper
-cricket
-walking stick | walkingstick | stick insect
-cockroach | roach
-mantis | mantid
-cicada | cicala
-leafhopper
-lacewing | lacewing fly
-"dragonfly | darning needle | devils darning needle | sewing needle | snake feeder | snake doctor | mosquito hawk | skeeter hawk"
-damselfly
-admiral
-ringlet | ringlet butterfly
-monarch | monarch butterfly | milkweed butterfly | Danaus plexippus
-cabbage butterfly
-sulphur butterfly | sulfur butterfly
-lycaenid | lycaenid butterfly
-starfish | sea star
-sea urchin
-sea cucumber | holothurian
-wood rabbit | cottontail | cottontail rabbit
-hare
-Angora | Angora rabbit
-hamster
-porcupine | hedgehog
-fox squirrel | eastern fox squirrel | Sciurus niger
-marmot
-beaver
-guinea pig | Cavia cobaya
-sorrel
-zebra
-hog | pig | grunter | squealer | Sus scrofa
-wild boar | boar | Sus scrofa
-warthog
-hippopotamus | hippo | river horse | Hippopotamus amphibius
-ox
-water buffalo | water ox | Asiatic buffalo | Bubalus bubalis
-bison
-ram | tup
-bighorn | bighorn sheep | cimarron | Rocky Mountain bighorn | Rocky Mountain sheep | Ovis canadensis
-ibex | Capra ibex
-hartebeest
-impala | Aepyceros melampus
-gazelle
-Arabian camel | dromedary | Camelus dromedarius
-llama
-weasel
-mink
-polecat | fitch | foulmart | foumart | Mustela putorius
-black-footed ferret | ferret | Mustela nigripes
-otter
-skunk | polecat | wood pussy
-badger
-armadillo
-three-toed sloth | ai | Bradypus tridactylus
-orangutan | orang | orangutang | Pongo pygmaeus
-gorilla | Gorilla gorilla
-chimpanzee | chimp | Pan troglodytes
-gibbon | Hylobates lar
-siamang | Hylobates syndactylus | Symphalangus syndactylus
-guenon | guenon monkey
-patas | hussar monkey | Erythrocebus patas
-baboon
-macaque
-langur
-colobus | colobus monkey
-proboscis monkey | Nasalis larvatus
-marmoset
-capuchin | ringtail | Cebus capucinus
-howler monkey | howler
-titi | titi monkey
-spider monkey | Ateles geoffroyi
-squirrel monkey | Saimiri sciureus
-Madagascar cat | ring-tailed lemur | Lemur catta
-indri | indris | Indri indri | Indri brevicaudatus
-Indian elephant | Elephas maximus
-African elephant | Loxodonta africana
-lesser panda | red panda | panda | bear cat | cat bear | Ailurus fulgens
-giant panda | panda | panda bear | coon bear | Ailuropoda melanoleuca
-barracouta | snoek
-eel
-coho | cohoe | coho salmon | blue jack | silver salmon | Oncorhynchus kisutch
-rock beauty | Holocanthus tricolor
-anemone fish
-sturgeon
-gar | garfish | garpike | billfish | Lepisosteus osseus
-lionfish
-puffer | pufferfish | blowfish | globefish
-abacus
-abaya
-"academic gown | academic robe | judges robe"
-accordion | piano accordion | squeeze box
-acoustic guitar
-aircraft carrier | carrier | flattop | attack aircraft carrier
-airliner
-airship | dirigible
-altar
-ambulance
-amphibian | amphibious vehicle
-analog clock
-apiary | bee house
-apron
-ashcan | trash can | garbage can | wastebin | ash bin | ash-bin | ashbin | dustbin | trash barrel | trash bin
-assault rifle | assault gun
-backpack | back pack | knapsack | packsack | rucksack | haversack
-bakery | bakeshop | bakehouse
-balance beam | beam
-balloon
-ballpoint | ballpoint pen | ballpen | Biro
-Band Aid
-banjo
-bannister | banister | balustrade | balusters | handrail
-barbell
-barber chair
-barbershop
-barn
-barometer
-barrel | cask
-barrow | garden cart | lawn cart | wheelbarrow
-baseball
-basketball
-bassinet
-bassoon
-bathing cap | swimming cap
-bath towel
-bathtub | bathing tub | bath | tub
-beach wagon | station wagon | wagon | estate car | beach waggon | station waggon | waggon
-beacon | lighthouse | beacon light | pharos
-beaker
-bearskin | busby | shako
-beer bottle
-beer glass
-bell cote | bell cot
-bib
-bicycle-built-for-two | tandem bicycle | tandem
-bikini | two-piece
-binder | ring-binder
-binoculars | field glasses | opera glasses
-birdhouse
-boathouse
-bobsled | bobsleigh | bob
-bolo tie | bolo | bola tie | bola
-bonnet | poke bonnet
-bookcase
-bookshop | bookstore | bookstall
-bottlecap
-bow
-bow tie | bow-tie | bowtie
-brass | memorial tablet | plaque
-brassiere | bra | bandeau
-breakwater | groin | groyne | mole | bulwark | seawall | jetty
-breastplate | aegis | egis
-broom
-bucket | pail
-buckle
-bulletproof vest
-bullet train | bullet
-butcher shop | meat market
-cab | hack | taxi | taxicab
-caldron | cauldron
-candle | taper | wax light
-cannon
-canoe
-can opener | tin opener
-cardigan
-car mirror
-carousel | carrousel | merry-go-round | roundabout | whirligig
-"carpenters kit | tool kit"
-carton
-car wheel
-cash machine | cash dispenser | automated teller machine | automatic teller machine | automated teller | automatic teller | ATM
-cassette
-cassette player
-castle
-catamaran
-CD player
-cello | violoncello
-cellular telephone | cellular phone | cellphone | cell | mobile phone
-chain
-chainlink fence
-chain mail | ring mail | mail | chain armor | chain armour | ring armor | ring armour
-chain saw | chainsaw
-chest
-chiffonier | commode
-chime | bell | gong
-china cabinet | china closet
-Christmas stocking
-church | church building
-cinema | movie theater | movie theatre | movie house | picture palace
-cleaver | meat cleaver | chopper
-cliff dwelling
-cloak
-clog | geta | patten | sabot
-cocktail shaker
-coffee mug
-coffeepot
-coil | spiral | volute | whorl | helix
-combination lock
-computer keyboard | keypad
-confectionery | confectionary | candy store
-container ship | containership | container vessel
-convertible
-corkscrew | bottle screw
-cornet | horn | trumpet | trump
-cowboy boot
-cowboy hat | ten-gallon hat
-cradle
-crane
-crash helmet
-crate
-crib | cot
-Crock Pot
-croquet ball
-crutch
-cuirass
-dam | dike | dyke
-desk
-desktop computer
-dial telephone | dial phone
-diaper | nappy | napkin
-digital clock
-digital watch
-dining table | board
-dishrag | dishcloth
-dishwasher | dish washer | dishwashing machine
-disk brake | disc brake
-dock | dockage | docking facility
-dogsled | dog sled | dog sleigh
-dome
-doormat | welcome mat
-drilling platform | offshore rig
-drum | membranophone | tympan
-drumstick
-dumbbell
-Dutch oven
-electric fan | blower
-electric guitar
-electric locomotive
-entertainment center
-envelope
-espresso maker
-face powder
-feather boa | boa
-file | file cabinet | filing cabinet
-fireboat
-fire engine | fire truck
-fire screen | fireguard
-flagpole | flagstaff
-flute | transverse flute
-folding chair
-football helmet
-forklift
-fountain
-fountain pen
-four-poster
-freight car
-French horn | horn
-frying pan | frypan | skillet
-fur coat
-garbage truck | dustcart
-gasmask | respirator | gas helmet
-gas pump | gasoline pump | petrol pump | island dispenser
-goblet
-go-kart
-golf ball
-golfcart | golf cart
-gondola
-gong | tam-tam
-gown
-grand piano | grand
-greenhouse | nursery | glasshouse
-grille | radiator grille
-grocery store | grocery | food market | market
-guillotine
-hair slide
-hair spray
-half track
-hammer
-hamper
-hand blower | blow dryer | blow drier | hair dryer | hair drier
-hand-held computer | hand-held microcomputer
-handkerchief | hankie | hanky | hankey
-hard disc | hard disk | fixed disk
-harmonica | mouth organ | harp | mouth harp
-harp
-harvester | reaper
-hatchet
-holster
-home theater | home theatre
-honeycomb
-hook | claw
-hoopskirt | crinoline
-horizontal bar | high bar
-horse cart | horse-cart
-hourglass
-iPod
-iron | smoothing iron
-"jack-o-lantern"
-jean | blue jean | denim
-jeep | landrover
-jersey | T-shirt | tee shirt
-jigsaw puzzle
-jinrikisha | ricksha | rickshaw
-joystick
-kimono
-knee pad
-knot
-lab coat | laboratory coat
-ladle
-lampshade | lamp shade
-laptop | laptop computer
-lawn mower | mower
-lens cap | lens cover
-letter opener | paper knife | paperknife
-library
-lifeboat
-lighter | light | igniter | ignitor
-limousine | limo
-liner | ocean liner
-lipstick | lip rouge
-Loafer
-lotion
-loudspeaker | speaker | speaker unit | loudspeaker system | speaker system
-"loupe | jewelers loupe"
-lumbermill | sawmill
-magnetic compass
-mailbag | postbag
-mailbox | letter box
-maillot
-maillot | tank suit
-manhole cover
-maraca
-marimba | xylophone
-mask
-matchstick
-maypole
-maze | labyrinth
-measuring cup
-medicine chest | medicine cabinet
-megalith | megalithic structure
-microphone | mike
-microwave | microwave oven
-military uniform
-milk can
-minibus
-miniskirt | mini
-minivan
-missile
-mitten
-mixing bowl
-mobile home | manufactured home
-Model T
-modem
-monastery
-monitor
-moped
-mortar
-mortarboard
-mosque
-mosquito net
-motor scooter | scooter
-mountain bike | all-terrain bike | off-roader
-mountain tent
-mouse | computer mouse
-mousetrap
-moving van
-muzzle
-nail
-neck brace
-necklace
-nipple
-notebook | notebook computer
-obelisk
-oboe | hautboy | hautbois
-ocarina | sweet potato
-odometer | hodometer | mileometer | milometer
-oil filter
-organ | pipe organ
-oscilloscope | scope | cathode-ray oscilloscope | CRO
-overskirt
-oxcart
-oxygen mask
-packet
-paddle | boat paddle
-paddlewheel | paddle wheel
-padlock
-paintbrush
-"pajama | pyjama | pjs | jammies"
-palace
-panpipe | pandean pipe | syrinx
-paper towel
-parachute | chute
-parallel bars | bars
-park bench
-parking meter
-passenger car | coach | carriage
-patio | terrace
-pay-phone | pay-station
-pedestal | plinth | footstall
-pencil box | pencil case
-pencil sharpener
-perfume | essence
-Petri dish
-photocopier
-pick | plectrum | plectron
-pickelhaube
-picket fence | paling
-pickup | pickup truck
-pier
-piggy bank | penny bank
-pill bottle
-pillow
-ping-pong ball
-pinwheel
-pirate | pirate ship
-pitcher | ewer
-"plane | carpenters plane | woodworking plane"
-planetarium
-plastic bag
-plate rack
-plow | plough
-"plunger | plumbers helper"
-Polaroid camera | Polaroid Land camera
-pole
-police van | police wagon | paddy wagon | patrol wagon | wagon | black Maria
-poncho
-pool table | billiard table | snooker table
-pop bottle | soda bottle
-pot | flowerpot
-"potters wheel"
-power drill
-prayer rug | prayer mat
-printer
-prison | prison house
-projectile | missile
-projector
-puck | hockey puck
-punching bag | punch bag | punching ball | punchball
-purse
-quill | quill pen
-quilt | comforter | comfort | puff
-racer | race car | racing car
-racket | racquet
-radiator
-radio | wireless
-radio telescope | radio reflector
-rain barrel
-recreational vehicle | RV | R.V.
-reel
-reflex camera
-refrigerator | icebox
-remote control | remote
-restaurant | eating house | eating place | eatery
-revolver | six-gun | six-shooter
-rifle
-rocking chair | rocker
-rotisserie
-rubber eraser | rubber | pencil eraser
-rugby ball
-rule | ruler
-running shoe
-safe
-safety pin
-saltshaker | salt shaker
-sandal
-sarong
-sax | saxophone
-scabbard
-scale | weighing machine
-school bus
-schooner
-scoreboard
-screen | CRT screen
-screw
-screwdriver
-seat belt | seatbelt
-sewing machine
-shield | buckler
-shoe shop | shoe-shop | shoe store
-shoji
-shopping basket
-shopping cart
-shovel
-shower cap
-shower curtain
-ski
-ski mask
-sleeping bag
-slide rule | slipstick
-sliding door
-slot | one-armed bandit
-snorkel
-snowmobile
-snowplow | snowplough
-soap dispenser
-soccer ball
-sock
-solar dish | solar collector | solar furnace
-sombrero
-soup bowl
-space bar
-space heater
-space shuttle
-spatula
-speedboat
-"spider web | spiders web"
-spindle
-sports car | sport car
-spotlight | spot
-stage
-steam locomotive
-steel arch bridge
-steel drum
-stethoscope
-stole
-stone wall
-stopwatch | stop watch
-stove
-strainer
-streetcar | tram | tramcar | trolley | trolley car
-stretcher
-studio couch | day bed
-stupa | tope
-submarine | pigboat | sub | U-boat
-suit | suit of clothes
-sundial
-sunglass
-sunglasses | dark glasses | shades
-sunscreen | sunblock | sun blocker
-suspension bridge
-swab | swob | mop
-sweatshirt
-swimming trunks | bathing trunks
-swing
-switch | electric switch | electrical switch
-syringe
-table lamp
-tank | army tank | armored combat vehicle | armoured combat vehicle
-tape player
-teapot
-teddy | teddy bear
-television | television system
-tennis ball
-thatch | thatched roof
-theater curtain | theatre curtain
-thimble
-thresher | thrasher | threshing machine
-throne
-tile roof
-toaster
-tobacco shop | tobacconist shop | tobacconist
-toilet seat
-torch
-totem pole
-tow truck | tow car | wrecker
-toyshop
-tractor
-trailer truck | tractor trailer | trucking rig | rig | articulated lorry | semi
-tray
-trench coat
-tricycle | trike | velocipede
-trimaran
-tripod
-triumphal arch
-trolleybus | trolley coach | trackless trolley
-trombone
-tub | vat
-turnstile
-typewriter keyboard
-umbrella
-unicycle | monocycle
-upright | upright piano
-vacuum | vacuum cleaner
-vase
-vault
-velvet
-vending machine
-vestment
-viaduct
-violin | fiddle
-volleyball
-waffle iron
-wall clock
-wallet | billfold | notecase | pocketbook
-wardrobe | closet | press
-warplane | military plane
-washbasin | handbasin | washbowl | lavabo | wash-hand basin
-washer | automatic washer | washing machine
-water bottle
-water jug
-water tower
-whiskey jug
-whistle
-wig
-window screen
-window shade
-Windsor tie
-wine bottle
-wing
-wok
-wooden spoon
-wool | woolen | woollen
-worm fence | snake fence | snake-rail fence | Virginia fence
-wreck
-yawl
-yurt
-web site | website | internet site | site
-comic book
-crossword puzzle | crossword
-street sign
-traffic light | traffic signal | stoplight
-book jacket | dust cover | dust jacket | dust wrapper
-menu
-plate
-guacamole
-consomme
-hot pot | hotpot
-trifle
-ice cream | icecream
-ice lolly | lolly | lollipop | popsicle
-French loaf
-bagel | beigel
-pretzel
-cheeseburger
-hotdog | hot dog | red hot
-mashed potato
-head cabbage
-broccoli
-cauliflower
-zucchini | courgette
-spaghetti squash
-acorn squash
-butternut squash
-cucumber | cuke
-artichoke | globe artichoke
-bell pepper
-cardoon
-mushroom
-Granny Smith
-strawberry
-orange
-lemon
-fig
-pineapple | ananas
-banana
-jackfruit | jak | jack
-custard apple
-pomegranate
-hay
-carbonara
-chocolate sauce | chocolate syrup
-dough
-meat loaf | meatloaf
-pizza | pizza pie
-potpie
-burrito
-red wine
-espresso
-cup
-eggnog
-alp
-bubble
-cliff | drop | drop-off
-coral reef
-geyser
-lakeside | lakeshore
-promontory | headland | head | foreland
-sandbar | sand bar
-seashore | coast | seacoast | sea-coast
-valley | vale
-volcano
-ballplayer | baseball player
-groom | bridegroom
-scuba diver
-rapeseed
-daisy
-"yellow ladys slipper | yellow lady-slipper | Cypripedium calceolus | Cypripedium parviflorum"
-corn
-acorn
-hip | rose hip | rosehip
-buckeye | horse chestnut | conker
-coral fungus
-agaric
-gyromitra
-stinkhorn | carrion fungus
-earthstar
-hen-of-the-woods | hen of the woods | Polyporus frondosus | Grifola frondosa
-bolete
-ear | spike | capitulum
-toilet tissue | toilet paper | bathroom tissue
+丁鲷	tench | Tinca tinca
+金鱼	goldfish | Carassius auratus
+大白鲨	great white shark | white shark | man-eater | man-eating shark | Carcharodon carcharias
+虎鲨	tiger shark | Galeocerdo cuvieri
+锤头鲨	hammerhead | hammerhead shark
+电鳐	electric ray | crampfish | numbfish | torpedo
+黄貂鱼	stingray
+公鸡	cock
+母鸡	hen
+鸵鸟	ostrich | Struthio camelus
+花鸡	brambling | Fringilla montifringilla
+金翅雀	goldfinch | Carduelis carduelis
+红麻雀	house finch | linnet | Carpodacus mexicanus
+暗眼灯草鹀	junco | snowbird
+靛蓝彩鹀	indigo bunting | indigo finch | indigo bird | Passerina cyanea
+旅鸫	robin | American robin | Turdus migratorius
+红耳鹎	bulbul
+冠蓝鸦	jay
+喜鹊	magpie
+山雀	chickadee
+美洲河乌	water ouzel | dipper
+鸢	kite
+秃头鹰	bald eagle | American eagle | Haliaeetus leucocephalus
+秃鹫	vulture
+大灰猫头鹰	great grey owl | great gray owl | Strix nebulosa
+欧洲火蝾螈	European fire salamander | Salamandra salamandra
+欧洲蝾螈	common newt | Triturus vulgaris
+蝾螈	eft
+斑点钝口螈	spotted salamander | Ambystoma maculatum
+六角恐龙	axolotl | mud puppy | Ambystoma mexicanum
+美国牛蛙	bullfrog | Rana catesbeiana
+树蛙	tree frog | tree-frog
+尾蟾	tailed frog | bell toad | ribbed toad | tailed toad | Ascaphus trui
+红海龟	loggerhead | loggerhead turtle | Caretta caretta
+棱皮龟	leatherback turtle | leatherback | leathery turtle | Dermochelys coriacea
+东方动胸龟	mud turtle
+钻纹龟	terrapin
+箱龟	box turtle | box tortoise
+豹紋壁虎	banded gecko
+绿鬣蜥	common iguana | iguana | Iguana iguana
+安禄蜥	American chameleon | anole | Anolis carolinensis
+沙漠鞭尾蜥蜴	whiptail | whiptail lizard
+彩虹鬣蜥	agama
+伞蜥蜴	frilled lizard | Chlamydosaurus kingi
+鳄蜥	alligator lizard
+美國毒蜥	Gila monster | Heloderma suspectum
+欧洲绿蜥蜴	green lizard | Lacerta viridis
+变色龙	African chameleon | Chamaeleo chamaeleon
+科莫多巨蜥	Komodo dragon | Komodo lizard | dragon lizard | giant lizard | Varanus komodoensis
+尼罗鳄	African crocodile | Nile crocodile | Crocodylus niloticus
+美国短吻鳄	American alligator | Alligator mississipiensis
+三角龙	triceratops
+钩盲蛇	thunder snake | worm snake | Carphophis amoenus
+环颈蛇	ringneck snake | ring-necked snake | ring snake
+猪鼻蛇	hognose snake | puff adder | sand viper
+滑鳞绿树蛇	green snake | grass snake
+王蛇	king snake | kingsnake
+袜带蛇	garter snake | grass snake
+水蛇	water snake
+绿瘦蛇	vine snake
+夜蛇	night snake | Hypsiglena torquata
+紅尾蚺	boa constrictor | Constrictor constrictor
+非洲岩蟒	rock python | rock snake | Python sebae
+印度眼镜蛇	Indian cobra | Naja naja
+绿曼巴蛇	green mamba
+海蛇	sea snake
+非洲角蝰蛇	horned viper | cerastes | sand viper | horned asp | Cerastes cornutus
+东部菱背响尾蛇	diamondback | diamondback rattlesnake | Crotalus adamanteus
+角响尾蛇	sidewinder | horned rattlesnake | Crotalus cerastes
+三叶虫	trilobite
+盲蜘蛛	harvestman | daddy longlegs | Phalangium opilio
+蝎子	scorpion
+黑金花园蜘蛛	black and gold garden spider | Argiope aurantia
+谷仓蜘蛛	barn spider | Araneus cavaticus
+十字园蛛	garden spider | Aranea diademata
+黑寡妇蜘蛛	black widow | Latrodectus mactans
+塔兰托毒蛛	tarantula
+狼蛛	wolf spider | hunting spider
+蜱	tick
+蜈蚣	centipede
+黑琴鸡	black grouse
+雷鸟	ptarmigan
+披肩榛鸡	ruffed grouse | partridge | Bonasa umbellus
+草原松鸡	prairie chicken | prairie grouse | prairie fowl
+孔雀	peacock
+鹌鹑	quail
+鹧鸪	partridge
+非洲灰鹦鹉	African grey | African gray | Psittacus erithacus
+金刚鹦鹉	macaw
+葵花凤头鹦鹉	sulphur-crested cockatoo | Kakatoe galerita | Cacatua galerita
+虹彩吸蜜鹦鹉	lorikeet
+大毛鸡	coucal
+蜂虎	bee eater
+犀鸟	hornbill
+蜂鸟	hummingbird
+鹟䴕	jacamar
+巨嘴鸟	toucan
+鸭子	drake
+红胸秋沙鸭	red-breasted merganser | Mergus serrator
+鹅	goose
+黑天鹅	black swan | Cygnus atratus
+巨齿动物	tusker
+澳洲针鼹	echidna | spiny anteater | anteater
+鸭嘴兽	platypus | duckbill | duckbilled platypus | duck-billed platypus | Ornithorhynchus anatinus
+沙袋鼠	wallaby | brush kangaroo
+考拉	koala | koala bear | kangaroo bear | native bear | Phascolarctos cinereus
+袋熊	wombat
+水母	jellyfish
+海葵	sea anemone | anemone
+脑珊瑚	brain coral
+扁虫	flatworm | platyhelminth
+线虫	nematode | nematode worm | roundworm
+海螺	conch
+蜗牛	snail
+鼻涕虫	slug
+海蛞蝓	sea slug | nudibranch
+石鳖	chiton | coat-of-mail shell | sea cradle | polyplacophore
+鹦鹉螺	chambered nautilus | pearly nautilus | nautilus
+珍宝蟹	Dungeness crab | Cancer magister
+红黄道蟹	rock crab | Cancer irroratus
+招潮蟹	fiddler crab
+阿拉斯加帝王蟹	king crab | Alaska crab | Alaskan king crab | Alaska king crab | Paralithodes camtschatica
+美国龙虾	American lobster | Northern lobster | Maine lobster | Homarus americanus
+断沟龙虾	spiny lobster | langouste | rock lobster | crawfish | crayfish | sea crawfish
+小龙虾	crayfish | crawfish | crawdad | crawdaddy
+寄居蟹	hermit crab
+大王具足虫	isopod
+白鹳	white stork | Ciconia ciconia
+黑鹳	black stork | Ciconia nigra
+玫瑰琵鹭	spoonbill
+火烈鸟	flamingo
+小蓝鹭	little blue heron | Egretta caerulea
+大白鹭	American egret | great white heron | Egretta albus
+美洲麻鳽	bittern
+鹤	crane
+秧鹤	limpkin | Aramus pictus
+美洲黑水鸡	European gallinule | Porphyrio porphyrio
+美洲骨顶	American coot | marsh hen | mud hen | water hen | Fulica americana
+鸨	bustard
+红翻石鹬	ruddy turnstone | Arenaria interpres
+红背鹬	red-backed sandpiper | dunlin | Erolia alpina
+红脚鹬	redshank | Tringa totanus
+长嘴半蹼鹬	dowitcher
+蛎鹬	oystercatcher | oyster catcher
+鹈鹕	pelican
+国王企鹅	king penguin | Aptenodytes patagonica
+信天翁	albatross | mollymawk
+灰鲸	grey whale | gray whale | devilfish | Eschrichtius gibbosus | Eschrichtius robustus
+杀人鲸	killer whale | killer | orca | grampus | sea wolf | Orcinus orca
+儒艮	dugong | Dugong dugon
+海狮	sea lion
+吉娃娃	Chihuahua
+日本狆犬	Japanese spaniel
+马尔济斯犬	Maltese dog | Maltese terrier | Maltese
+京巴犬	Pekinese | Pekingese | Peke
+西施犬	Shih-Tzu
+查理士王小猎犬	Blenheim spaniel
+蝴蝶犬	papillon
+英国玩具梗	toy terrier
+罗得西亚长背猎狗	Rhodesian ridgeback
+阿富汗猎犬	Afghan hound | Afghan
+巴吉度猎犬	basset | basset hound
+比格犬	beagle
+寻血猎犬	bloodhound | sleuthhound
+布鲁泰克猎浣熊犬	bluetick
+黑褐猎浣熊犬	black-and-tan coonhound
+树丛浣熊猎犬	Walker hound | Walker foxhound
+英国猎狐犬	English foxhound
+红浣熊猎犬	redbone
+苏俄牧羊犬	borzoi | Russian wolfhound
+爱尔兰猎狼犬	Irish wolfhound
+意大利灰狗	Italian greyhound
+惠比特犬	whippet
+伊比莎猎犬	Ibizan hound | Ibizan Podenco
+挪威黑猎鹿犬	Norwegian elkhound | elkhound
+奥达猎犬	otterhound | otter hound
+萨路基猎犬	Saluki | gazelle hound
+苏格兰猎鹿犬	Scottish deerhound | deerhound
+威玛猎犬	Weimaraner
+斯塔福德郡斗牛犬	Staffordshire bullterrier | Staffordshire bull terrier
+美国斯塔福德郡梗	American Staffordshire terrier | Staffordshire terrier | American pit bull terrier | pit bull terrier
+贝德灵顿梗	Bedlington terrier
+边境梗	Border terrier
+凯丽蓝梗	Kerry blue terrier
+爱尔兰梗	Irish terrier
+诺福克梗	Norfolk terrier
+诺维奇梗	Norwich terrier
+约克夏梗犬	Yorkshire terrier
+刚毛猎狐梗	wire-haired fox terrier
+湖畔梗	Lakeland terrier
+锡利哈姆梗	Sealyham terrier | Sealyham
+艾尔谷犬	Airedale | Airedale terrier
+凯恩梗	cairn | cairn terrier
+澳大利亚梗	Australian terrier
+丹迪丁蒙梗	Dandie Dinmont | Dandie Dinmont terrier
+波士顿梗	Boston bull | Boston terrier
+迷你雪纳瑞犬	miniature schnauzer
+巨型雪纳瑞犬	giant schnauzer
+标准雪纳瑞犬	standard schnauzer
+苏格兰梗犬	Scotch terrier | Scottish terrier | Scottie
+西藏梗	Tibetan terrier | chrysanthemum dog
+丝毛梗	silky terrier | Sydney silky
+爱尔兰软毛梗犬	soft-coated wheaten terrier
+西高地白梗	West Highland white terrier
+拉萨阿普索犬	Lhasa | Lhasa apso
+平毛寻回犬	flat-coated retriever
+卷毛寻回犬	curly-coated retriever
+金毛猎犬	golden retriever
+拉布拉多猎犬	Labrador retriever
+乞沙比克猎犬	Chesapeake Bay retriever
+德国短毛指示犬	German short-haired pointer
+维兹拉犬	vizsla | Hungarian pointer
+英国塞特犬	English setter
+爱尔兰雪达犬	Irish setter | red setter
+戈登雪达犬	Gordon setter
+布列塔尼犬猎犬	Brittany spaniel
+小型西班牙猎犬	clumber | clumber spaniel
+英国史宾格犬	English springer | English springer spaniel
+威尔士史宾格犬	Welsh springer spaniel
+可卡犬	cocker spaniel | English cocker spaniel | cocker
+萨塞克斯猎犬	Sussex spaniel
+爱尔兰水猎犬	Irish water spaniel
+库瓦兹犬	kuvasz
+舒柏奇犬	schipperke
+比利时牧羊犬	groenendael
+马里努阿犬	malinois
+伯瑞犬	briard
+凯尔皮犬	kelpie
+可蒙犬	komondor
+老英国牧羊犬	Old English sheepdog | bobtail
+喜乐蒂牧羊犬	Shetland sheepdog | Shetland sheep dog | Shetland
+牧羊犬	collie
+边境牧羊犬	Border collie
+法兰德斯牧牛狗	Bouvier des Flandres | Bouviers des Flandres
+罗特韦尔犬	Rottweiler
+德国牧羊犬	German shepherd | German shepherd dog | German police dog | alsatian
+多伯曼犬	Doberman | Doberman pinscher
+迷你杜宾犬	miniature pinscher
+大瑞士山地犬	Greater Swiss Mountain dog
+伯恩山犬	Bernese mountain dog
+阿策尔山犬	Appenzeller
+恩特尔布赫山犬	EntleBucher
+拳师狗	boxer
+斗牛獒	bull mastiff
+藏獒	Tibetan mastiff
+法国斗牛犬	French bulldog
+大丹犬	Great Dane
+圣伯纳德狗	Saint Bernard | St Bernard
+哈士奇	Eskimo dog | husky
+阿拉斯加雪橇犬	malamute | malemute | Alaskan malamute
+西伯利亚雪橇犬	Siberian husky
+斑点狗	dalmatian | coach dog | carriage dog
+猴犬	affenpinscher | monkey pinscher | monkey dog
+巴仙吉犬	basenji
+巴哥犬	pug | pug-dog
+兰波格犬	Leonberg
+纽芬兰犬	Newfoundland | Newfoundland dog
+大白熊犬	Great Pyrenees
+萨摩耶犬	Samoyed | Samoyede
+博美犬	Pomeranian
+松狮	chow | chow chow
+毛狮犬	keeshond
+布鲁塞尔格林芬犬	Brabancon griffon
+彭布洛克威尔士科基犬	Pembroke | Pembroke Welsh corgi
+卡狄根威尔斯柯基犬	Cardigan | Cardigan Welsh corgi
+玩具贵宾犬	toy poodle
+迷你贵宾犬	miniature poodle
+标准贵宾犬	standard poodle
+墨西哥无毛犬	Mexican hairless
+灰狼	timber wolf | grey wolf | gray wolf | Canis lupus
+阿拉斯加苔原狼	white wolf | Arctic wolf | Canis lupus tundrarum
+红狼	red wolf | maned wolf | Canis rufus | Canis niger
+郊狼	coyote | prairie wolf | brush wolf | Canis latrans
+澳洲野狗	dingo | warrigal | warragal | Canis dingo
+豺	dhole | Cuon alpinus
+非洲野犬	African hunting dog | hyena dog | Cape hunting dog | Lycaon pictus
+鬣狗	hyena | hyaena
+红狐	red fox | Vulpes vulpes
+敏狐	kit fox | Vulpes macrotis
+北极狐	Arctic fox | white fox | Alopex lagopus
+灰狐	grey fox | gray fox | Urocyon cinereoargenteus
+虎斑猫	tabby | tabby cat
+孟加拉猫	tiger cat
+波斯猫	Persian cat
+暹罗猫	Siamese cat | Siamese
+埃及猫	Egyptian cat
+美洲狮	cougar | puma | catamount | mountain lion | painter | panther | Felis concolor
+猞猁	lynx | catamount
+美洲豹	leopard | Panthera pardus
+雪豹	snow leopard | ounce | Panthera uncia
+捷豹	jaguar | panther | Panthera onca | Felis onca
+狮子	lion | king of beasts | Panthera leo
+老虎	tiger | Panthera tigris
+猎豹	cheetah | chetah | Acinonyx jubatus
+棕熊	brown bear | bruin | Ursus arctos
+美洲黑熊	American black bear | black bear | Ursus americanus | Euarctos americanus
+北极熊	ice bear | polar bear | Ursus Maritimus | Thalarctos maritimus
+懒熊	sloth bear | Melursus ursinus | Ursus ursinus
+侏獴	mongoose
+狐獴	meerkat | mierkat
+虎甲	tiger beetle
+瓢虫	ladybug | ladybeetle | lady beetle | ladybird | ladybird beetle
+步甲	ground beetle | carabid beetle
+天牛	long-horned beetle | longicorn | longicorn beetle
+金花虫	leaf beetle | chrysomelid
+蜣螂	dung beetle
+犀金龟	rhinoceros beetle
+象鼻虫	weevil
+苍蝇	fly
+蜜蜂	bee
+蚂蚁	ant | emmet | pismire
+草蜢	grasshopper | hopper
+蟋蟀	cricket
+竹节虫	walking stick | walkingstick | stick insect
+蟑螂	cockroach | roach
+螳螂	mantis | mantid
+蝉	cicada | cicala
+叶蝉	leafhopper
+草蜻蛉	lacewing | lacewing fly
+蜻蜓	dragonfly | darning needle | devils darning needle | sewing needle | snake feeder | snake doctor | mosquito hawk | skeeter hawk
+豆娘	damselfly
+优红蛱蝶	admiral
+小环蝴蝶	ringlet | ringlet butterfly
+帝王蝴蝶	monarch | monarch butterfly | milkweed butterfly | Danaus plexippus
+菜粉蝶	cabbage butterfly
+粉蝶	sulphur butterfly | sulfur butterfly
+灰蝶	lycaenid | lycaenid butterfly
+海星	starfish | sea star
+海胆	sea urchin
+海参	sea cucumber | holothurian
+棉尾兔	wood rabbit | cottontail | cottontail rabbit
+野兔	hare
+安哥拉兔	Angora | Angora rabbit
+仓鼠	hamster
+刺猬	porcupine | hedgehog
+狐松鼠	fox squirrel | eastern fox squirrel | Sciurus niger
+土拨鼠	marmot
+海狸	beaver
+豚鼠	guinea pig | Cavia cobaya
+栗色马	sorrel
+斑马	zebra
+猪	hog | pig | grunter | squealer | Sus scrofa
+野猪	wild boar | boar | Sus scrofa
+疣猪	warthog
+河马	hippopotamus | hippo | river horse | Hippopotamus amphibius
+公牛	ox
+水牛	water buffalo | water ox | Asiatic buffalo | Bubalus bubalis
+美洲野牛	bison
+公羊	ram | tup
+大角羊	bighorn | bighorn sheep | cimarron | Rocky Mountain bighorn | Rocky Mountain sheep | Ovis canadensis
+阿尔卑斯羱羊	ibex | Capra ibex
+披紅狷羚	hartebeest
+高角羚	impala | Aepyceros melampus
+瞪羚	gazelle
+阿拉伯单峰骆驼	Arabian camel | dromedary | Camelus dromedarius
+大羊驼	llama
+黄鼠狼	weasel
+水貂	mink
+欧洲臭鼬	polecat | fitch | foulmart | foumart | Mustela putorius
+黑足鼬	black-footed ferret | ferret | Mustela nigripes
+水獭	otter
+臭鼬	skunk | polecat | wood pussy
+獾	badger
+犰狳	armadillo
+三趾树懒	three-toed sloth | ai | Bradypus tridactylus
+红毛猩猩	orangutan | orang | orangutang | Pongo pygmaeus
+大猩猩	gorilla | Gorilla gorilla
+黑猩猩	chimpanzee | chimp | Pan troglodytes
+长臂猿	gibbon | Hylobates lar
+合趾猿长臂猿	siamang | Hylobates syndactylus | Symphalangus syndactylus
+长尾猴	guenon | guenon monkey
+赤猴	patas | hussar monkey | Erythrocebus patas
+狒狒	baboon
+猕猴	macaque
+黑叶猴	langur
+东非黑白疣猴	colobus | colobus monkey
+长鼻猴	proboscis monkey | Nasalis larvatus
+狨猴	marmoset
+白头卷尾猴	capuchin | ringtail | Cebus capucinus
+吼猴	howler monkey | howler
+伶猴	titi | titi monkey
+蜘蛛猴	spider monkey | Ateles geoffroyi
+松鼠猴	squirrel monkey | Saimiri sciureus
+马达加斯加环尾狐猴	Madagascar cat | ring-tailed lemur | Lemur catta
+大狐猴	indri | indris | Indri indri | Indri brevicaudatus
+亚洲象	Indian elephant | Elephas maximus
+非洲草原象	African elephant | Loxodonta africana
+小熊猫	lesser panda | red panda | panda | bear cat | cat bear | Ailurus fulgens
+大熊猫	giant panda | panda | panda bear | coon bear | Ailuropoda melanoleuca
+杖鱼	barracouta | snoek
+鳗鱼	eel
+银鲑	coho | cohoe | coho salmon | blue jack | silver salmon | Oncorhynchus kisutch
+石美人	rock beauty | Holocanthus tricolor
+小丑鱼	anemone fish
+鲟鱼	sturgeon
+雀鳝	gar | garfish | garpike | billfish | Lepisosteus osseus
+狮子鱼	lionfish
+河豚	puffer | pufferfish | blowfish | globefish
+算盘	abacus
+长袍	abaya
+学位袍	academic gown | academic robe | judges robe
+手风琴	accordion | piano accordion | squeeze box
+原声吉他	acoustic guitar
+航空母舰	aircraft carrier | carrier | flattop | attack aircraft carrier
+客机	airliner
+飞艇	airship | dirigible
+祭坛	altar
+救护车	ambulance
+水陆两用车	amphibian | amphibious vehicle
+模拟时钟	analog clock
+蜂房	apiary | bee house
+围裙	apron
+垃圾桶	ashcan | trash can | garbage can | wastebin | ash bin | ash-bin | ashbin | dustbin | trash barrel | trash bin
+攻击步枪	assault rifle | assault gun
+背包	backpack | back pack | knapsack | packsack | rucksack | haversack
+面包店	bakery | bakeshop | bakehouse
+平衡木	balance beam | beam
+气球	balloon
+圆珠笔	ballpoint | ballpoint pen | ballpen | Biro
+创可贴	Band Aid
+班卓琴	banjo
+栏杆	bannister | banister | balustrade | balusters | handrail
+杠铃	barbell
+理发椅	barber chair
+理发店	barbershop
+谷仓	barn
+晴雨表	barometer
+桶	barrel | cask
+手推车	barrow | garden cart | lawn cart | wheelbarrow
+棒球	baseball
+篮球	basketball
+婴儿床	bassinet
+巴松管	bassoon
+游泳帽	bathing cap | swimming cap
+沐浴毛巾	bath towel
+浴缸	bathtub | bathing tub | bath | tub
+旅行车	beach wagon | station wagon | wagon | estate car | beach waggon | station waggon | waggon
+灯塔	beacon | lighthouse | beacon light | pharos
+烧杯	beaker
+军帽	bearskin | busby | shako
+啤酒瓶	beer bottle
+啤酒杯	beer glass
+钟塔	bell cote | bell cot
+口水兜	bib
+双人骑自行车	bicycle-built-for-two | tandem bicycle | tandem
+比基尼	bikini | two-piece
+活页夹	binder | ring-binder
+双筒望远镜	binoculars | field glasses | opera glasses
+鸟舍	birdhouse
+船库	boathouse
+双人雪橇	bobsled | bobsleigh | bob
+饰扣式领带	bolo tie | bolo | bola tie | bola
+阔边女帽	bonnet | poke bonnet
+书橱	bookcase
+书店	bookshop | bookstore | bookstall
+瓶盖	bottlecap
+弓箭	bow
+蝴蝶结领结	bow tie | bow-tie | bowtie
+铜制牌位	brass | memorial tablet | plaque
+胸罩	brassiere | bra | bandeau
+防波堤	breakwater | groin | groyne | mole | bulwark | seawall | jetty
+铠甲	breastplate | aegis | egis
+扫帚	broom
+水桶	bucket | pail
+搭扣	buckle
+防弹背心	bulletproof vest
+高铁	bullet train | bullet
+肉铺	butcher shop | meat market
+出租车	cab | hack | taxi | taxicab
+大锅	caldron | cauldron
+蜡烛	candle | taper | wax light
+大炮	cannon
+独木舟	canoe
+开瓶器	can opener | tin opener
+开衫	cardigan
+车镜	car mirror
+旋转木马	carousel | carrousel | merry-go-round | roundabout | whirligig
+工具箱	carpenters kit | tool kit
+纸箱	carton
+车轮	car wheel
+取款机	cash machine | cash dispenser | automated teller machine | automatic teller machine | automated teller | automatic teller | ATM
+录音带	cassette
+卡带播放器	cassette player
+城堡	castle
+双体船	catamaran
+CD播放器	CD player
+大提琴	cello | violoncello
+手机	cellular telephone | cellular phone | cellphone | cell | mobile phone
+铁链	chain
+铁丝网	chainlink fence
+锁子甲	chain mail | ring mail | mail | chain armor | chain armour | ring armor | ring armour
+链锯	chain saw | chainsaw
+储物柜	chest
+小衣橱	chiffonier | commode
+风铃	chime | bell | gong
+橱柜	china cabinet | china closet
+圣诞袜	Christmas stocking
+教堂	church | church building
+电影院	cinema | movie theater | movie theatre | movie house | picture palace
+切肉刀	cleaver | meat cleaver | chopper
+悬崖屋	cliff dwelling
+斗篷	cloak
+木屐	clog | geta | patten | sabot
+鸡尾酒调酒器	cocktail shaker
+咖啡杯	coffee mug
+咖啡机	coffeepot
+线圈	coil | spiral | volute | whorl | helix
+组合锁	combination lock
+电脑键盘	computer keyboard | keypad
+糖果店	confectionery | confectionary | candy store
+集装箱船	container ship | containership | container vessel
+敞篷车	convertible
+瓶塞钻	corkscrew | bottle screw
+短号	cornet | horn | trumpet | trump
+牛仔靴	cowboy boot
+牛仔帽	cowboy hat | ten-gallon hat
+摇篮	cradle
+起重机	crane
+安全帽	crash helmet
+板条箱	crate
+小儿床	crib | cot
+砂锅	Crock Pot
+槌球	croquet ball
+拐杖	crutch
+胸甲	cuirass
+大坝	dam | dike | dyke
+书桌	desk
+台式电脑	desktop computer
+有线电话	dial telephone | dial phone
+尿布	diaper | nappy | napkin
+数字时钟	digital clock
+数字手表	digital watch
+餐桌	dining table | board
+抹布	dishrag | dishcloth
+洗碗机	dishwasher | dish washer | dishwashing machine
+盘式制动器	disk brake | disc brake
+码头	dock | dockage | docking facility
+狗拉雪橇	dogsled | dog sled | dog sleigh
+圆顶	dome
+门垫	doormat | welcome mat
+钻井平台	drilling platform | offshore rig
+鼓	drum | membranophone | tympan
+鼓槌	drumstick
+哑铃	dumbbell
+荷兰锅	Dutch oven
+电风扇	electric fan | blower
+电吉他	electric guitar
+电力机车	electric locomotive
+组合电视柜	entertainment center
+信封	envelope
+浓缩咖啡机	espresso maker
+扑面粉	face powder
+女用长围巾	feather boa | boa
+文件柜	file | file cabinet | filing cabinet
+消防船	fireboat
+消防车	fire engine | fire truck
+火炉栏	fire screen | fireguard
+旗杆	flagpole | flagstaff
+长笛	flute | transverse flute
+折叠椅	folding chair
+橄榄球头盔	football helmet
+叉车	forklift
+喷泉	fountain
+钢笔	fountain pen
+四帷柱床	four-poster
+运货车厢	freight car
+圆号	French horn | horn
+煎锅	frying pan | frypan | skillet
+毛皮大衣	fur coat
+垃圾车	garbage truck | dustcart
+防毒面具	gasmask | respirator | gas helmet
+汽油泵	gas pump | gasoline pump | petrol pump | island dispenser
+高脚杯	goblet
+卡丁车	go-kart
+高尔夫球	golf ball
+高尔夫球车	golfcart | golf cart
+缆车	gondola
+锣	gong | tam-tam
+礼服	gown
+钢琴	grand piano | grand
+温室	greenhouse | nursery | glasshouse
+散热器格栅	grille | radiator grille
+杂货店	grocery store | grocery | food market | market
+断头台	guillotine
+小发夹	hair slide
+头发喷雾	hair spray
+半履带装甲车	half track
+锤子	hammer
+带盖的长方形大容器	hamper
+吹风机	hand blower | blow dryer | blow drier | hair dryer | hair drier
+手提电脑	hand-held computer | hand-held microcomputer
+手帕	handkerchief | hankie | hanky | hankey
+硬盘	hard disc | hard disk | fixed disk
+口琴	harmonica | mouth organ | harp | mouth harp
+竖琴	harp
+联合收割机	harvester | reaper
+斧头	hatchet
+手枪皮套	holster
+家庭影院	home theater | home theatre
+蜂窝	honeycomb
+钩子	hook | claw
+有裙撑的裙子	hoopskirt | crinoline
+单杠	horizontal bar | high bar
+马车	horse cart | horse-cart
+沙漏	hourglass
+iPod	iPod
+熨斗	iron | smoothing iron
+南瓜灯笼	jack-o-lantern
+牛仔裤	jean | blue jean | denim
+吉普车	jeep | landrover
+T恤衫	jersey | T-shirt | tee shirt
+拼图	jigsaw puzzle
+人力车	jinrikisha | ricksha | rickshaw
+操纵杆	joystick
+和服	kimono
+护膝	knee pad
+蝴蝶结	knot
+实验室大褂	lab coat | laboratory coat
+长柄勺	ladle
+灯罩	lampshade | lamp shade
+笔记本电脑	laptop | laptop computer
+割草机	lawn mower | mower
+镜头盖	lens cap | lens cover
+开信刀	letter opener | paper knife | paperknife
+图书馆	library
+救生艇	lifeboat
+点火器	lighter | light | igniter | ignitor
+豪华轿车	limousine | limo
+远洋班轮	liner | ocean liner
+唇膏	lipstick | lip rouge
+平底便鞋	Loafer
+洗剂	lotion
+扬声器	loudspeaker | speaker | speaker unit | loudspeaker system | speaker system
+放大镜	loupe | jewelers loupe
+锯木厂	lumbermill | sawmill
+磁罗盘	magnetic compass
+邮袋	mailbag | postbag
+信箱	mailbox | letter box
+女游泳衣	maillot
+有肩带浴衣	maillot | tank suit
+窨井盖	manhole cover
+沙球（一种打击乐器）	maraca
+马林巴木琴	marimba | xylophone
+面具	mask
+火柴	matchstick
+花柱	maypole
+迷宫	maze | labyrinth
+量杯	measuring cup
+药箱	medicine chest | medicine cabinet
+巨石	megalith | megalithic structure
+麦克风	microphone | mike
+微波炉	microwave | microwave oven
+军装	military uniform
+奶瓶	milk can
+迷你巴士	minibus
+迷你裙	miniskirt | mini
+小型货车	minivan
+导弹	missile
+连指手套	mitten
+搅拌钵	mixing bowl
+房车	mobile home | manufactured home
+福特T型车	Model T
+光猫	modem
+修道院	monastery
+显示器	monitor
+电瓶车	moped
+砂浆	mortar
+博士帽	mortarboard
+清真寺	mosque
+蚊帐	mosquito net
+踏板式摩托车	motor scooter | scooter
+山地自行车	mountain bike | all-terrain bike | off-roader
+登山帐	mountain tent
+鼠标	mouse | computer mouse
+捕鼠器	mousetrap
+搬家货车	moving van
+动物的口套	muzzle
+金属钉子	nail
+颈托	neck brace
+项链	necklace
+橡皮奶嘴	nipple
+平板电脑	notebook | notebook computer
+方尖碑	obelisk
+双簧管	oboe | hautboy | hautbois
+小鹅笛	ocarina | sweet potato
+里程表	odometer | hodometer | mileometer | milometer
+滤油器	oil filter
+风琴	organ | pipe organ
+示波器	oscilloscope | scope | cathode-ray oscilloscope | CRO
+罩裙	overskirt
+牛车	oxcart
+氧气面罩	oxygen mask
+包装	packet
+船桨	paddle | boat paddle
+明轮	paddlewheel | paddle wheel
+挂锁	padlock
+画笔	paintbrush
+睡衣	pajama | pyjama | pjs | jammies
+宫殿	palace
+排箫	panpipe | pandean pipe | syrinx
+纸巾	paper towel
+降落伞	parachute | chute
+双杠	parallel bars | bars
+公园长椅	park bench
+停车收费表	parking meter
+有轨电车	passenger car | coach | carriage
+露台	patio | terrace
+付费电话	pay-phone | pay-station
+基座	pedestal | plinth | footstall
+铅笔盒	pencil box | pencil case
+卷笔刀	pencil sharpener
+香水	perfume | essence
+培养皿	Petri dish
+复印机	photocopier
+拨弦片	pick | plectrum | plectron
+尖顶头盔	pickelhaube
+用尖板条连成的尖桩篱栅	picket fence | paling
+皮卡车	pickup | pickup truck
+桥墩	pier
+存钱罐	piggy bank | penny bank
+药瓶	pill bottle
+枕头	pillow
+乒乓球	ping-pong ball
+风车	pinwheel
+海盗船	pirate | pirate ship
+饮料罐	pitcher | ewer
+木工刨	plane | carpenters plane | woodworking plane
+天文馆	planetarium
+塑料袋	plastic bag
+板架	plate rack
+犁型铲雪机	plow | plough
+手压皮碗泵	plunger | plumbers helper
+宝丽来相机	Polaroid camera | Polaroid Land camera
+电线杆	pole
+警车	police van | police wagon | paddy wagon | patrol wagon | wagon | black Maria
+雨披	poncho
+台球桌	pool table | billiard table | snooker table
+汽水瓶	pop bottle | soda bottle
+花盆	pot | flowerpot
+陶工旋盘	potters wheel
+电钻	power drill
+祈祷垫	prayer rug | prayer mat
+打印机	printer
+监狱	prison | prison house
+导弹	projectile | missile
+投影仪	projector
+冰球	puck | hockey puck
+沙包	punching bag | punch bag | punching ball | punchball
+小钱袋	purse
+羽管笔	quill | quill pen
+被子	quilt | comforter | comfort | puff
+赛车	racer | race car | racing car
+球拍	racket | racquet
+散热器	radiator
+收音机	radio | wireless
+射电望远镜	radio telescope | radio reflector
+雨桶	rain barrel
+休闲车	recreational vehicle | RV | R.V.
+卷轴	reel
+反射式照相机	reflex camera
+冰箱	refrigerator | icebox
+遥控器	remote control | remote
+餐厅	restaurant | eating house | eating place | eatery
+左轮手枪	revolver | six-gun | six-shooter
+步枪	rifle
+摇椅	rocking chair | rocker
+电转烤肉架	rotisserie
+橡皮	rubber eraser | rubber | pencil eraser
+橄榄球	rugby ball
+直尺	rule | ruler
+跑步鞋	running shoe
+保险柜	safe
+安全别针	safety pin
+盐瓶	saltshaker | salt shaker
+凉鞋	sandal
+纱笼	sarong
+萨克斯管	sax | saxophone
+剑鞘	scabbard
+秤	scale | weighing machine
+校车	school bus
+帆船	schooner
+记分牌	scoreboard
+CRT显示器	screen | CRT screen
+螺丝	screw
+螺丝刀	screwdriver
+安全带	seat belt | seatbelt
+缝纫机	sewing machine
+盾牌	shield | buckler
+皮鞋店	shoe shop | shoe-shop | shoe store
+日式拉门	shoji
+购物篮	shopping basket
+购物车	shopping cart
+铁锹	shovel
+浴帽	shower cap
+浴帘	shower curtain
+滑雪板	ski
+滑雪面罩	ski mask
+睡袋	sleeping bag
+滑尺	slide rule | slipstick
+滑动门	sliding door
+角子老虎机	slot | one-armed bandit
+潜水通气管	snorkel
+摩托雪橇	snowmobile
+扫雪机	snowplow | snowplough
+皂液器	soap dispenser
+足球	soccer ball
+袜子	sock
+太阳能集热器	solar dish | solar collector | solar furnace
+宽边帽	sombrero
+汤碗	soup bowl
+空格键	space bar
+空间加热器	space heater
+航天飞机	space shuttle
+锅铲	spatula
+快艇	speedboat
+蜘蛛网	spider web | spiders web
+纺锤	spindle
+跑车	sports car | sport car
+聚光灯	spotlight | spot
+舞台	stage
+蒸汽机车	steam locomotive
+钢拱桥	steel arch bridge
+钢滚筒	steel drum
+听诊器	stethoscope
+女用披肩	stole
+石头墙	stone wall
+秒表	stopwatch | stop watch
+火炉	stove
+过滤器	strainer
+有轨电车	streetcar | tram | tramcar | trolley | trolley car
+担架	stretcher
+沙发床	studio couch | day bed
+佛塔	stupa | tope
+潜水艇	submarine | pigboat | sub | U-boat
+套装	suit | suit of clothes
+日晷	sundial
+太阳镜	sunglass
+太阳镜	sunglasses | dark glasses | shades
+防晒霜	sunscreen | sunblock | sun blocker
+悬索桥	suspension bridge
+拖把	swab | swob | mop
+运动衫	sweatshirt
+游泳裤	swimming trunks | bathing trunks
+秋千	swing
+开关	switch | electric switch | electrical switch
+注射管	syringe
+台灯	table lamp
+坦克	tank | army tank | armored combat vehicle | armoured combat vehicle
+录音机	tape player
+茶壶	teapot
+泰迪熊	teddy | teddy bear
+电视	television | television system
+网球	tennis ball
+茅草	thatch | thatched roof
+幕布	theater curtain | theatre curtain
+顶针	thimble
+打谷机	thresher | thrasher | threshing machine
+王座	throne
+瓦屋顶	tile roof
+烤面包机	toaster
+烟草店	tobacco shop | tobacconist shop | tobacconist
+马桶	toilet seat
+火炬	torch
+图腾柱	totem pole
+拖车	tow truck | tow car | wrecker
+玩具店	toyshop
+拖拉机	tractor
+半挂式卡车	trailer truck | tractor trailer | trucking rig | rig | articulated lorry | semi
+托盘	tray
+风衣	trench coat
+三轮车	tricycle | trike | velocipede
+三体船	trimaran
+三脚架	tripod
+凯旋门	triumphal arch
+无轨电车	trolleybus | trolley coach | trackless trolley
+长号	trombone
+浴盆	tub | vat
+旋转式栅门	turnstile
+打字机键盘	typewriter keyboard
+雨伞	umbrella
+独轮车	unicycle | monocycle
+直立式钢琴	upright | upright piano
+吸尘器	vacuum | vacuum cleaner
+花瓶	vase
+拱顶	vault
+天鹅绒	velvet
+自动售货机	vending machine
+祭衣	vestment
+高架桥	viaduct
+小提琴	violin | fiddle
+排球	volleyball
+华夫烤盘	waffle iron
+挂钟	wall clock
+钱包	wallet | billfold | notecase | pocketbook
+衣柜衣橱	wardrobe | closet | press
+军用飞机	warplane | military plane
+洗脸盆	washbasin | handbasin | washbowl | lavabo | wash-hand basin
+洗衣机	washer | automatic washer | washing machine
+水瓶	water bottle
+水壶	water jug
+水塔	water tower
+威士忌壶	whiskey jug
+哨子	whistle
+假发	wig
+纱窗	window screen
+百叶窗	window shade
+温莎领带	Windsor tie
+葡萄酒瓶	wine bottle
+机翼	wing
+炒菜锅	wok
+木勺子	wooden spoon
+毛织品	wool | woolen | woollen
+原木栅栏	worm fence | snake fence | snake-rail fence | Virginia fence
+沉船	wreck
+双桅船	yawl
+蒙古包	yurt
+网站	web site | website | internet site | site
+漫画	comic book
+纵横字谜	crossword puzzle | crossword
+路标	street sign
+交通信号灯	traffic light | traffic signal | stoplight
+防尘罩	book jacket | dust cover | dust jacket | dust wrapper
+菜单	menu
+盘子	plate
+牛油果酱	guacamole
+清炖肉汤	consomme
+火锅	hot pot | hotpot
+果酱松糕	trifle
+冰淇淋	ice cream | icecream
+冰棍	ice lolly | lolly | lollipop | popsicle
+法棍	French loaf
+百吉饼	bagel | beigel
+椒盐脆饼	pretzel
+芝士汉堡	cheeseburger
+热狗	hotdog | hot dog | red hot
+土豆泥	mashed potato
+卷心菜	head cabbage
+西兰花	broccoli
+花椰菜	cauliflower
+西葫芦	zucchini | courgette
+意面南瓜	spaghetti squash
+绿色小南瓜	acorn squash
+南瓜	butternut squash
+黄瓜	cucumber | cuke
+洋蓟	artichoke | globe artichoke
+甜椒	bell pepper
+刺棘蓟	cardoon
+蘑菇	mushroom
+澳洲青苹	Granny Smith
+草莓	strawberry
+橘子	orange
+柠檬	lemon
+无花果	fig
+菠萝	pineapple | ananas
+香蕉	banana
+菠萝蜜	jackfruit | jak | jack
+番荔枝	custard apple
+石榴	pomegranate
+干草	hay
+培根蛋酱意大利面	carbonara
+巧克力酱	chocolate sauce | chocolate syrup
+面团	dough
+肉卷	meat loaf | meatloaf
+披萨	pizza | pizza pie
+馅饼	potpie
+卷饼	burrito
+红葡萄酒	red wine
+意式浓缩咖啡	espresso
+茶杯	cup
+蛋酒	eggnog
+高山	alp
+泡泡	bubble
+悬崖	cliff | drop | drop-off
+珊瑚礁	coral reef
+间歇泉	geyser
+湖边	lakeside | lakeshore
+岬角	promontory | headland | head | foreland
+沙洲	sandbar | sand bar
+沙滩	seashore | coast | seacoast | sea-coast
+峡谷	valley | vale
+火山	volcano
+棒球运动员	ballplayer | baseball player
+新郎	groom | bridegroom
+潜水员	scuba diver
+油菜	rapeseed
+雏菊	daisy
+黄色杓兰	yellow ladys slipper | yellow lady-slipper | Cypripedium calceolus | Cypripedium parviflorum
+玉米	corn
+橡子	acorn
+玫瑰果	hip | rose hip | rosehip
+七叶树果实	buckeye | horse chestnut | conker
+珊瑚菌	coral fungus
+木耳	agaric
+鹿花菌	gyromitra
+臭角菇	stinkhorn | carrion fungus
+地星	earthstar
+野生舞茸	hen-of-the-woods | hen of the woods | Polyporus frondosus | Grifola frondosa
+牛肝菌	bolete
+玉米棒子	ear | spike | capitulum
+卫生纸	toilet tissue | toilet paper | bathroom tissue

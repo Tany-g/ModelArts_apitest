@@ -3,16 +3,19 @@ ARG all_proxy=172.17.128.1:7890
 
 FROM ubuntu:20.04
 
-# 将当前目录下的所有文件复制到容器的 /workspace 目录中
+
 ENV all_proxy=172.17.128.1:7890
-# 安装 Python 3 和 pip
+# 换源或者使用代理
+
+# 安装 Python 3 和 pip3
 RUN apt-get update && apt-get install -y python3 python3-pip
 
 
 # 安装 requirements.txt 文件中列出的 Python 依赖
 COPY requirements.txt ./
-RUN pip install -r requirements.txt
+RUN pip3 install -r requirements.txt
 
+# 将当前目录下的所需文件复制到容器的 /workspace 目录中
 COPY model /workspace/model
 COPY service.py /workspace
 COPY label.txt /workspace
